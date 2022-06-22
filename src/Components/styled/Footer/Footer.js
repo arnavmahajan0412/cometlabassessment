@@ -8,7 +8,7 @@ function Footer() {
     <StyledFooter>
       <Logo fill="currentColor" />
       <small>
-        <p>&copy; Copyright 2018 Huddle. All rights reserved.</p>
+        <p>&copy; Copyright 2018 Multor. All rights reserved.</p>
       </small>
     </StyledFooter>
   );
